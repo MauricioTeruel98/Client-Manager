@@ -1,0 +1,11 @@
+# Client-Manager-Api
+
+To start you must enter in the console, on this directory the command 
+`npm install`
+to install all the node js packages.
+
+##
+
+Then `npm start` to start the server
+
+The API will start on port http://localhost:3200
